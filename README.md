@@ -1,3 +1,8 @@
+Modal builder 
+
+Create modals without any static HTML placeholders
+
+
 ```
 $.modal({
   title: "Example title",
@@ -11,3 +16,5 @@ $.modal({
 }).modal('show');
 
 ```
+
+See docs/index.html for more.
